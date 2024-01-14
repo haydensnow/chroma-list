@@ -1,5 +1,7 @@
-# chroma-list
-Resources for creative projects
+[![Chroma Logo](https://i.ibb.co/tK2pc8Q/Logo2.png)](https://discord.gg/aMWduyASE3)
+
+[![Join our Discord server](https://i.ibb.co/7xczMHx/Discord2.png)](https://discord.gg/aMWduyASE3)
+
 
 # Fonts
 ## Font Resources
