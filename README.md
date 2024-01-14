@@ -34,5 +34,3 @@ Resources for creative projects
 
 - [Fontspring Matcherator](https://www.fontspring.com/matcherator): A powerful tool that can identify fonts in an image and also find fonts that pair well with the identified font. Useful for designers looking for complementary typefaces.
 
-- [Adobe Creative Cloud Font Finder](https://fonts.adobe.com/): Adobe’s built-in font finder tool is available for Creative Cloud users. It allows for easy font identification within Adobe applications, streamlining the design process for its users.
-
