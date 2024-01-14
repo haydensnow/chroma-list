@@ -20,9 +20,31 @@
 - [Identifont](http://www.identifont.com/): Offers font identification by asking a series of questions about the font characteristics in your image. It's a different approach compared to direct image upload but can be very effective.
 - [What Font Is](https://www.whatfontis.com/): Allows users to upload images of text and identifies the font by comparing it with a large database of fonts. This service also provides links to download or purchase identified fonts.
 - [Fontspring Matcherator](https://www.fontspring.com/matcherator): A powerful tool that can identify fonts in an image and also find fonts that pair well with the identified font. Useful for designers looking for complementary typefaces.
-## Sharing
-### Posters and Key Art
-Places where you can share and download media-focused artwork for your media servers, wallpapers, and more. A guide to creating posters is `COMING SOON`
+# Making Cover Art
+## Recommended Ratios/Sizes for Digital Media Server Art
+- Posters: 2:3 (1000x1500px)
+- Backgrounds: 16:9 (1920x1080px)
+- Episode Cards: 16:9 (1920x1080px)
+- Album Art: 1:1 (1000x1000px)
+
+Please keep in mind that these are for images that WILL NOT be printed. If you intend on printing your work, you will want a much higher resolution image at 300 dpi.
+
+## Finding Media Artwork
+### General
+- Ben Dodsons Apple Artwork Tools: [[1]](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) [[2]](https://bendodson.com/projects/itunes-artwork-finder/): Great way of downloading key art, posters, logos, and more.
+- [The Movie Database](https://www.themoviedb.org/): Has a large selection of movie posters.
+- [fanart.tv](https://fanart.tv/): Lots of transparent images (though many of these include built-in drop shadows).
+- Studio Media Kits: [Disney+](https://press.disneyplus.com/media-kits), [Lionsgate](https://www.lionsgatepublicity.com/).
+
+### Textless Posters and Stills
+- Blu-ray.com Textless Threads: [[1]](https://forum.blu-ray.com/showthread.php?t=176706) [[2]](https://forum.blu-ray.com/showthread.php?t=169156)
+
+### Logos
+- Google Images: The best way to find logos is by searching `[TITLE] logo` and using the dropdown filters to ONLY show transparent images. Don't type the word "transparent" in your search query as you will likely get a lot of fake checkerboard images.
+- [Blu-ray.com Key Art Thread](https://forum.blu-ray.com/showthread.php?t=198179)
+
+### Sharing Posters and Key Art
+Places where you can share and download media-focused artwork for your media servers, wallpapers, and more.
 - [The Poster Database](https://www.theposterdb.com): Hundreds of thousands of posters, and a great place to share your work. (🛑 This site is currently down as of Jan 14, 2023, though only temporarily)
 - [MediUX](https://mediux.pro/): Currently in alpha. Supports title cards, album artwork, and more.
 
