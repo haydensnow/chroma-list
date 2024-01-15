@@ -33,8 +33,10 @@ Please keep in mind that these are for images that WILL NOT be printed. If you i
 ### General
 - Ben Dodsons Apple Artwork Tools: [[1]](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) [[2]](https://bendodson.com/projects/itunes-artwork-finder/): Great way of downloading key art, posters, logos, and more.
 - [The Movie Database](https://www.themoviedb.org/): Has a large selection of movie posters.
+- [TheTVDB](https://thetvdb.com/)
 - [fanart.tv](https://fanart.tv/): Lots of transparent images (though many of these include built-in drop shadows).
 - Studio Media Kits: [Disney+](https://press.disneyplus.com/media-kits), [Lionsgate](https://www.lionsgatepublicity.com/).
+- [Customaniacs](https://www.customaniacs.org/forum/)
 
 ### Textless Posters and Stills
 - Blu-ray.com Textless Threads: [[1]](https://forum.blu-ray.com/showthread.php?t=176706) [[2]](https://forum.blu-ray.com/showthread.php?t=169156)
