@@ -38,7 +38,6 @@
 - [FontSpace](https://www.fontspace.com/): A community-driven site offering thousands of free fonts uploaded by designers. Great for finding unique and lesser-known fonts.
 - [Fontfabric](https://www.fontfabric.com/): An independent type foundry offering a selection of high-quality fonts, both free and paid, created by talented designers.
 - [Urban Fonts](https://www.urbanfonts.com/): Features both free and premium fonts. It has a vast collection of unique and trendy styles suitable for various design projects.
-- 
 ## Font Identification Tools
 - [WhatTheFont](https://www.myfonts.com/WhatTheFont/): A tool by MyFonts that allows users to upload images and identify fonts used in the images. It's one of the most popular font identification tools available.
 - [Font Squirrel Matcherator](https://www.fontsquirrel.com/matcherator): This tool by Font Squirrel lets users upload images and finds matching or similar fonts. It is especially useful for finding free and commercial-use alternatives.
