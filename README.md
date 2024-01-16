@@ -64,12 +64,18 @@ Please keep in mind that these are for images that WILL NOT be printed. If you i
 - Studio Media/Press Kits: [Disney+](https://press.disneyplus.com/media-kits), [Lionsgate](https://www.lionsgatepublicity.com/), [Warner Bros](https://pressroom.warnermedia.com/ca/)
 - [Customaniacs](https://www.customaniacs.org/forum/)
 - [DVDBash (Archive Only)](https://web.archive.org/web/20230209165310/https://dvdbash.com/)
+- [IMPAwards](http://www.impawards.com/)
 
 ### Textless Posters and Stills
 - Blu-ray.com Textless Threads: [[1]](https://forum.blu-ray.com/showthread.php?t=176706) [[2]](https://forum.blu-ray.com/showthread.php?t=169156)
 - [r/TextlessPosters](https://www.reddit.com/r/TextlessPosters/)
 - [CineMaterial](https://www.cinematerial.com/)
 - [MovieStillsDB](https://www.moviestillsdb.com/)
+- [Screencaps](https://movie-screencaps.com)
+- [FilmGrab](https://film-grab.com)
+- [Frame Set](https://frameset.app/stills)
+- [SHOTDECK](https://shotdeck.com)
+- [Film.AI](https://beta.flim.ai)
 
 ### Logos
 - Google Images: The best way to find logos is by searching `[TITLE] logo` and using the dropdown filters to ONLY show transparent images. Don't type the word "transparent" in your search query as you will likely get a lot of fake checkerboard images.
