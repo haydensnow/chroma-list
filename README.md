@@ -38,12 +38,15 @@
 - [FontSpace](https://www.fontspace.com/): A community-driven site offering thousands of free fonts uploaded by designers. Great for finding unique and lesser-known fonts.
 - [Fontfabric](https://www.fontfabric.com/): An independent type foundry offering a selection of high-quality fonts, both free and paid, created by talented designers.
 - [Urban Fonts](https://www.urbanfonts.com/): Features both free and premium fonts. It has a vast collection of unique and trendy styles suitable for various design projects.
+- 
 ## Font Identification Tools
 - [WhatTheFont](https://www.myfonts.com/WhatTheFont/): A tool by MyFonts that allows users to upload images and identify fonts used in the images. It's one of the most popular font identification tools available.
 - [Font Squirrel Matcherator](https://www.fontsquirrel.com/matcherator): This tool by Font Squirrel lets users upload images and finds matching or similar fonts. It is especially useful for finding free and commercial-use alternatives.
 - [Identifont](http://www.identifont.com/): Offers font identification by asking a series of questions about the font characteristics in your image. It's a different approach compared to direct image upload but can be very effective.
 - [What Font Is](https://www.whatfontis.com/): Allows users to upload images of text and identifies the font by comparing it with a large database of fonts. This service also provides links to download or purchase identified fonts.
 - [Fontspring Matcherator](https://www.fontspring.com/matcherator): A powerful tool that can identify fonts in an image and also find fonts that pair well with the identified font. Useful for designers looking for complementary typefaces.
+- [AnimeFont Tumbler](https://anime-font.tumblr.com/): Useful for identifying Japanese fonts.
+- [LikeFont](https://en.likefont.com/community/)
 # Making Cover Art
 ## Recommended Ratios/Sizes for Digital Media Server Art
 - Posters: 2:3 (1000x1500px)
@@ -59,11 +62,15 @@ Please keep in mind that these are for images that WILL NOT be printed. If you i
 - [The Movie Database](https://www.themoviedb.org/): Has a large selection of movie posters.
 - [TheTVDB](https://thetvdb.com/)
 - [fanart.tv](https://fanart.tv/): Lots of transparent images (though many of these include built-in drop shadows).
-- Studio Media Kits: [Disney+](https://press.disneyplus.com/media-kits), [Lionsgate](https://www.lionsgatepublicity.com/).
+- Studio Media/Press Kits: [Disney+](https://press.disneyplus.com/media-kits), [Lionsgate](https://www.lionsgatepublicity.com/), [Warner Bros](https://pressroom.warnermedia.com/ca/)
 - [Customaniacs](https://www.customaniacs.org/forum/)
+- [DVDBash (Archive Only)](https://web.archive.org/web/20230209165310/https://dvdbash.com/)
 
 ### Textless Posters and Stills
 - Blu-ray.com Textless Threads: [[1]](https://forum.blu-ray.com/showthread.php?t=176706) [[2]](https://forum.blu-ray.com/showthread.php?t=169156)
+- [r/TextlessPosters](https://www.reddit.com/r/TextlessPosters/)
+- [CineMaterial](https://www.cinematerial.com/)
+- [MovieStillsDB](https://www.moviestillsdb.com/)
 
 ### Logos
 - Google Images: The best way to find logos is by searching `[TITLE] logo` and using the dropdown filters to ONLY show transparent images. Don't type the word "transparent" in your search query as you will likely get a lot of fake checkerboard images.
