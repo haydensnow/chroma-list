@@ -7,6 +7,7 @@
 - [Fonts](#fonts)
   - [Font Resources](#font-resources)
   - [Font Identification Tools](#font-identification-tools)
+- [Stock Images](#stock-images)
 
 ### [Making Cover Art](#making-cover-art)
 - [Recommended Ratios/Sizes for Digital Media Server Art](#recommended-ratiossizes-for-digital-media-server-art)
@@ -43,6 +44,8 @@
 - [Fontspring Matcherator](https://www.fontspring.com/matcherator): A powerful tool that can identify fonts in an image and also find fonts that pair well with the identified font. Useful for designers looking for complementary typefaces.
 - [AnimeFont Tumbler](https://anime-font.tumblr.com/): Useful for identifying Japanese fonts.
 - [LikeFont](https://en.likefont.com/community/)
+## Stock Images
+- [Unsplash](https://unsplash.com): Great free stock photos, textures, and more.
 # Making Cover Art
 ## Recommended Ratios/Sizes for Digital Media Server Art
 - Posters: 2:3 (1000x1500px)
