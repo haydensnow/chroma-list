@@ -91,6 +91,9 @@ Places where you can share and download media-focused artwork for your media ser
 ## 3D Animation
 ### Learning Resources
 - [Agora Community](https://agora.community/): Free curated collection of animation learning material from many different places on the internet, and original content, including conversations with industry pros.
+### Reference
+- [Motion Actor Inc](https://m.youtube.com/channel/UCqeI_GYUEzbtbPyTccs7MKA): A YouTube channel with tons of reference footage shot at various angles. Ezspecially great for body mechanics
 ### Character Rigs
-- [Agora Rigs](https://agora.community/assets): Free high quality rigs and assets for both Autodesk Maya and Blender.
+- [Agora Rigs](https://agora.community/assets): Free high quality rigs and assetsor both Autodesk Maya and Blender.
+- [ProRigs](https://prorigs.com/): A subcription service with a selection of high quality Maya rigs
 - [Flour Sack Rig](https://joedanimation.gumroad.com/l/floursackmaya?layout=profile): Free flour sack rig for Maya. Perfect for practicing weight and expression.
