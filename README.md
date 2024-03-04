@@ -84,7 +84,7 @@ Please keep in mind that these are for images that WILL NOT be printed. If you i
 
 ### Sharing Posters and Key Art
 Places where you can share and download media-focused artwork for your media servers, wallpapers, and more.
-- [The Poster Database](https://www.theposterdb.com): Hundreds of thousands of posters, and a great place to share your work. (🛑 This site is currently down as of Feb 2024, though only temporarily)
+- [The Poster Database](https://www.theposterdb.com): Hundreds of thousands of posters, and a great place to share your work.
 - [MediUX](https://mediux.pro/): Currently in alpha. Supports title cards, album artwork, and more.
 
 # Animation
