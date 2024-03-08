@@ -1,29 +1,5 @@
 [![Chroma Logo](https://i.ibb.co/tK2pc8Q/Logo2.png)](https://discord.gg/aMWduyASE3)
 ---
-
-# Table of Contents
-
-### [Graphic Design](#graphic-design)
-- [Fonts](#fonts)
-  - [Font Resources](#font-resources)
-  - [Font Identification Tools](#font-identification-tools)
-- [Stock Images](#stock-images)
-
-### [Making Cover Art](#making-cover-art)
-- [Recommended Ratios/Sizes for Digital Media Server Art](#recommended-ratiossizes-for-digital-media-server-art)
-- [Finding Media Artwork](#finding-media-artwork)
-  - [General](#general)
-  - [Textless Posters and Stills](#textless-posters-and-stills)
-  - [Logos](#logos)
-  - [Sharing Posters and Key Art](#sharing-posters-and-key-art)
-
-### [Animation](#animation)
-- [3D Animation](#3d-animation)
-  - [Learning Resources](#learning-resources)
-  - [Character Rigs](#character-rigs)
-
----
-
 # Graphic Design
 ## Fonts
 ### Font Resources
@@ -46,6 +22,8 @@
 - [LikeFont](https://en.likefont.com/community/)
 ## Stock Images
 - [Unsplash](https://unsplash.com): Great free stock photos, textures, and more.
+## Design Kits and Mockups
+- [Apple](https://developer.apple.com/design/resources/): Apple's official design resources, including guides and mockups
 # Making Cover Art
 ## Recommended Ratios/Sizes for Digital Media Server Art
 - Posters: 2:3 (1000x1500px)
